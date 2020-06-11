@@ -1,0 +1,20 @@
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.exe.config
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.exe
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.pdb
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.xml
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.Form1.resources
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.Resources.resources
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.vbproj.GenerateResource.Cache
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.exe
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.xml
+E:\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.pdb
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.exe.config
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.exe
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.xml
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.pdb
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.exe
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.pdb
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\bin\Debug\CarpetAmount.xml
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.Form1.resources
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.Resources.resources
+D:\CS Classes\CS105\Medina-Project1\CarpetAmount\CarpetAmount\obj\Debug\CarpetAmount.vbproj.GenerateResource.Cache
